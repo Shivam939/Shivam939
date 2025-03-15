@@ -6,7 +6,7 @@ I primarily worked with **Java** and **Springboot** to develop Web Applications.
 
 ### 🌱 What I'm Learning
 - **Prometheus and Grafana** - Open-source tools that work together to monitor and visualize applications and systems.
-- Prometheus collects metrics, whule Grafana turns those metrics into dashboards and visualizations! 🎨
+    Prometheus collects metrics, whule Grafana turns those metrics into dashboards and visualizations! 🎨
 - **Modern Web Development** - Always on the lookout for tools to improve performance and user experience.
 
 ### 🛠️ My Tech Toolbox
