@@ -1,16 +1,16 @@
 # 👋 Hello, I'm SHIVAM TYAGI
 
 ### 🚀 Java Developer | Capgemini
-With 2.7 years of experience in Backend development, I'm passionate about building efficient, high-quality applications!.
-I primarily worked with **Java** and **Springboot** to develop Web Applications.
+With 2.8 years of experience in Backend development, I'm passionate about building efficient, high-quality applications!.
+I primarily worked with **Java** and **Spring Boot** to develop Web Applications.
 
 ### 🌱 What I'm Learning
 - **Prometheus and Grafana** - Open-source tools that work together to monitor and visualize applications and systems.
-    Prometheus collects metrics, whule Grafana turns those metrics into dashboards and visualizations! 🎨
+    Prometheus collects metrics, while Grafana turns those metrics into dashboards and visualizations! 🎨
 - **Modern Web Development** - Always on the lookout for tools to improve performance and user experience.
 
 ### 🛠️ My Tech Toolbox
-- **Languages & Frameworks**: Java, JEE, Spring Boot, Hibernate, JPA , Spring Securirty, Docker, Git/GitHub.
+- **Languages & Frameworks**: Java, JEE, Spring Boot, Hibernate, JPA, Spring Security, Docker, Git/GitHub.
 - **Database**: PostgreSQL, SQL & ORM (Hibernate JPA)
 
 ### 💡 My GitHub Projects
@@ -18,7 +18,7 @@ I primarily worked with **Java** and **Springboot** to develop Web Applications.
 -  ### 🛒 Shopping Application - Java Spring Boot, Microservices, MySQL, Docker, Prometheus, Grafana
 
 This is a simple **shopping application** built with **Java Spring Boot** using **microservices architecture**. 
-It allows users to browse products, add them to a cart, and checkout. 
+It allows users to browse products, add them to a cart, and check out. 
 
 - **Backend**: Microservices architecture with **Spring Boot** for product,order and Inventory services.
 - **Database**: **MySQL** for persistent data storage.
