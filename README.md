@@ -1,36 +1,57 @@
 # 👋 Hello, I'm SHIVAM TYAGI
 
-### 🚀 Java Developer | Capgemini
-With 2.8 years of experience in Backend development, I'm passionate about building efficient, high-quality applications!.
-I primarily worked with **Java** and **Spring Boot** to develop Web Applications.
+### 🚀 Java Developer | Capgemini  
+With 3 years of experience in Backend development, I'm passionate about building efficient, high-quality applications!  
+I primarily work with **Java** and **Spring Boot** to develop Web Applications and Microservices.
+
+---
 
 ### 🌱 What I'm Learning
-- **Prometheus and Grafana** - Open-source tools that work together to monitor and visualize applications and systems.
-    Prometheus collects metrics, while Grafana turns those metrics into dashboards and visualizations! 🎨
-- **Modern Web Development** - Always on the lookout for tools to improve performance and user experience.
+- **Spring Security with Auth0** — Implementing modern authentication and authorization in microservices using Auth0.  
+  Exploring how to integrate secure login, token-based access, and role-based permissions using **Spring Boot** and **Auth0**.
+
+---
 
 ### 🛠️ My Tech Toolbox
-- **Languages & Frameworks**: Java, JEE, Spring Boot, Hibernate, JPA, Spring Security, Docker, Git/GitHub.
-- **Database**: PostgreSQL, SQL & ORM (Hibernate JPA)
+- **Languages & Frameworks**: Java, JEE, Spring Boot, Hibernate, JPA, Spring Security, Docker, Git/GitHub  
+- **Database**: PostgreSQL, MySQL, MongoDB  
+- **DevOps/Tools**: Docker, Kafka, Redis, Zipkin, Prometheus, Grafana, Keycloak, Auth0
+
+---
 
 ### 💡 My GitHub Projects
 
--  ### 🛒 Shopping Application - Java Spring Boot, Microservices, MySQL, Docker, Prometheus, Grafana
+#### 🛒 Shopping Application — Java Spring Boot, Microservices, MySQL, Docker, Prometheus, Grafana  
+This is a simple **shopping application** built with **Java Spring Boot** using **microservices architecture**.  
+It allows users to browse products, add them to a cart, and check out.
 
-This is a simple **shopping application** built with **Java Spring Boot** using **microservices architecture**. 
-It allows users to browse products, add them to a cart, and check out. 
+- **Backend**: Microservices for Product, Order, and Inventory services  
+- **Database**: MySQL  
+- **Dockerized** for seamless deployment  
+- **Monitoring**: Prometheus & Grafana
 
-- **Backend**: Microservices architecture with **Spring Boot** for product,order and Inventory services.
-- **Database**: **MySQL** for persistent data storage.
-- **Docker**: Containerized the application to ensure consistency across environments.
-- **Monitoring**: Integrated **Prometheus** for metrics collection and **Grafana** for real-time monitoring and visualization.
+---
 
-You can explore the project to understand how I implemented microservices, managed inter-service communication, 
-and used monitoring tools to keep the application efficient and reliable.
+#### 🏦 Royal Reserve Bank — Java Spring Boot, Microservices, Kafka, Redis, Docker  
+A **Digital Banking Application** built using **Spring Boot** and a **microservices architecture**, simulating real-world banking operations with modern backend tech.
 
+- **Microservices**: Account Service, Transaction Service, Asset Management, Notification Service  
+- **Architecture**: Spring Cloud (Gateway, Eureka, Config Server)  
+- **Messaging**: Kafka for inter-service communication  
+- **Caching**: Redis to boost performance and prevent duplication  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **Monitoring**: Zipkin, Prometheus, Grafana  
+- **Authentication**: Keycloak and Auth0 for secure access and role management  
+- **Deployment**: Fully Dockerized with Docker Compose
 
-### 📫 Let's Connect
-Feel free to reach out for collaboration or just to say hello!
-- www.linkedin.com/in/shivam--tyagi 👈
+Explore this project to understand how I implemented scalable, secure, and observable banking microservices from scratch!
+
+---
+
+### 📫 Let's Connect  
+Feel free to reach out for collaboration or just to say hello!  
+🔗 [LinkedIn - Shivam Tyagi](https://www.linkedin.com/in/shivam--tyagi)
+
+---
 
 Thank you for visiting! 😊 Happy coding!
