@@ -21,18 +21,7 @@ I primarily work with **Java** and **Spring Boot** to develop Web Applications a
 
 ### 💡 My GitHub Projects
 
-#### 🛒 Shopping Application — Java Spring Boot, Microservices, MySQL, Docker, Prometheus, Grafana  
-This is a simple **shopping application** built with **Java Spring Boot** using **microservices architecture**.  
-It allows users to browse products, add them to a cart, and check out.
-
-- **Backend**: Microservices for Product, Order, and Inventory services  
-- **Database**: MySQL  
-- **Dockerized** for seamless deployment  
-- **Monitoring**: Prometheus & Grafana
-
----
-
-#### 🏦 Royal Reserve Bank — Java Spring Boot, Microservices, Kafka, Redis, Docker  
+#### 🏦 Royal Reserve Bank — Java Spring Boot, Microservices, Kafka, Auth0, Redis, Docker  
 A **Digital Banking Application** built using **Spring Boot** and a **microservices architecture**, simulating real-world banking operations with modern backend tech.
 
 - **Microservices**: Account Service, Transaction Service, Asset Management, Notification Service  
@@ -45,6 +34,24 @@ A **Digital Banking Application** built using **Spring Boot** and a **microservi
 - **Deployment**: Fully Dockerized with Docker Compose
 
 Explore this project to understand how I implemented scalable, secure, and observable banking microservices from scratch!
+
+---
+
+#### 🛒 Shopping Application — Java Spring Boot, Microservices, Kafka, Keycloak, Docker
+
+A **Shopping Application** built using **Spring Boot** and a **microservices architecture**, showcasing scalable backend design, secure authentication, real-time monitoring, and frontend integration.
+
+- **Microservices**: Product Service, Order Service, Inventory Service, Notification Service  
+- **Architecture**: API Gateway using Spring Cloud Gateway MVC  
+- **Frontend**: Angular 18  
+- **Databases**: MongoDB, MySQL  
+- **Messaging**: Kafka for asynchronous communication  
+- **Authentication**: Keycloak for secure access and role management  
+- **Testing**: TestContainers with Wiremock for integration testing  
+- **Monitoring**: Grafana Stack (Prometheus, Grafana, Loki, Tempo)  
+- **Deployment**: Docker Compose and Kubernetes  
+
+Explore this project to see how I implemented a robust, secure, and scalable shopping microservices system with real-time monitoring and frontend integration!
 
 ---
 
